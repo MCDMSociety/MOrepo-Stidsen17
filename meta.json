@@ -1,10 +1,10 @@
 {
-   "contributionName": "stidsen17",
+   "contributionName": "Stidsen17",
    "maintainer" : "Thomas Stidsen <thst@dtu.dk>",
    "instanceGroups": [
       {
-         "subfolder": "BITSP",
-         "class": "BI-TSP",
+         "subfolder": "",
+         "class": "Traveling Salesman",
          "objectives": 2,
          "tags": [ "BITSP", "travelling-salesman-problem", "BI-TSP"],
          "format": [ "raw" ],
