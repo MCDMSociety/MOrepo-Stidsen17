@@ -1,15 +1,4 @@
 {
    "contributionName": "Stidsen17",
    "maintainer" : "Thomas Stidsen <thst@dtu.dk>",
-   "instanceGroups": [
-      {
-         "subfolder": "",
-         "class": "Traveling Salesman",
-         "objectives": 2,
-         "tags": [ "BITSP", "travelling-salesman-problem", "BI-TSP"],
-         "format": [ "raw" ],
-         "desc": "Instances for the bi-objective travelling salesman problem.",
-         "creator" : "Thomas Stidsen <thst@dtu.dk>"
-      }
-   ]
 }
